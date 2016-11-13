@@ -1,0 +1,15 @@
+{
+  "name": "module-boilerplate",
+  "version": "0.0.1",
+  "description": "Boilerplate to speed up the creation of node modules using Babel and Webpack already configured as default",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/RodrigoOler/module-boilerplate.git",
+    "type": "git"
+  },
+  "author": "Rodrigo Oler <roodrigoprogrammer@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.13.3"
+  }
+}
